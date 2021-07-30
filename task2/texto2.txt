@@ -1,0 +1,8 @@
+Prueba de usabilidad remota no moderada
+Este tipo de test de usabilidad no es in situ ni moderada por los investigadores para eliminar cualquier problema que pueda ocurrir.
+
+Con este método, puedes usar tus propias herramientas en línea y llegar a tantos participantes como necesites de todo el mundo. No solo puedes obtener los resultados más rápido, sino que esta prueba también será la más conveniente para los participantes.
+
+Existen muchos servicios en línea que te pueden ayudar a realizar dichas pruebas. Para el seguimiento ocular, puedes probar Gazepoint o RealEye que recopilará datos de lo que la gente ve a través de las cámaras web.
+
+Para los tipos de prueba de clasificación de tarjetas, es Optimal Workshop (en inglés) para aprender cómo los participantes organizarían tu contenido. Y para las pruebas A/B, puedes intentar con Convert y VWO para dirigir la prueba.
